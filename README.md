@@ -78,4 +78,4 @@ Explique com clareza o que será desenvolvido, monte sua didática para que um a
 
 ## Entrega
 
-Entregue o projeto em um repositório Git remoto (as 4 aulas deverão estar presentes no repositório, renderize-as em baixa qualidade) e envie o link para o e-mail: rafael@fullcycle.com.br
+Entregue o projeto em um repositório Git remoto (as 4 aulas deverão estar presentes no repositório, renderize-as em baixa qualidade) e envie o link para o e-mail: miriane@fullcycle..com.br
