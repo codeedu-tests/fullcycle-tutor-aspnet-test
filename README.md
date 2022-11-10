@@ -3,7 +3,7 @@
 
 ## Tecnologias
 - Asp.net Core
-- Documentação com Swagger 
+- Documentação com Swagger / Open API
 - MySQL
 - Angular ou React ou Vue
 - Docker
